@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" rx="16" fill="#0d1117"/>
+  <!-- stack A: unsorted -->
+  <rect x="80" y="112" width="60" height="14" rx="3" fill="#2bb3b5"/>
+  <rect x="80" y="96" width="40" height="14" rx="3" fill="#2bb3b5"/>
+  <rect x="80" y="80" width="80" height="14" rx="3" fill="#2bb3b5"/>
+  <rect x="80" y="64" width="25" height="14" rx="3" fill="#2bb3b5"/>
+  <!-- stack B: sorted -->
+  <rect x="260" y="112" width="25" height="14" rx="3" fill="#ffffff"/>
+  <rect x="260" y="96" width="40" height="14" rx="3" fill="#ffffff"/>
+  <rect x="260" y="80" width="60" height="14" rx="3" fill="#ffffff"/>
+  <rect x="260" y="64" width="80" height="14" rx="3" fill="#ffffff"/>
+  <!-- arrow -->
+  <path d="M170 90 L225 90" stroke="#8b949e" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="225,80 240,90 225,100" fill="#8b949e"/>
+  <text x="200" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">PUSH SWAP</text>
+</svg>

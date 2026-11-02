@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" rx="16" fill="#0d1117"/>
+  <!-- axes -->
+  <line x1="80" y1="40" x2="80" y2="130" stroke="#8b949e" stroke-width="3"/>
+  <line x1="80" y1="130" x2="330" y2="130" stroke="#8b949e" stroke-width="3"/>
+  <!-- bars -->
+  <rect x="100" y="95" width="30" height="35" fill="#2bb3b5"/>
+  <rect x="150" y="75" width="30" height="55" fill="#2bb3b5"/>
+  <rect x="200" y="55" width="30" height="75" fill="#2bb3b5"/>
+  <rect x="250" y="80" width="30" height="50" fill="#2bb3b5"/>
+  <!-- trend line -->
+  <polyline points="115,88 165,68 215,48 265,73" fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="6 4"/>
+  <circle cx="115" cy="88" r="4" fill="#ffffff"/>
+  <circle cx="165" cy="68" r="4" fill="#ffffff"/>
+  <circle cx="215" cy="48" r="4" fill="#ffffff"/>
+  <circle cx="265" cy="73" r="4" fill="#ffffff"/>
+  <text x="200" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#ffffff">DATA ANALYSIS</text>
+</svg>

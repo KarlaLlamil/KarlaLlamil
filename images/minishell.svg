@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" rx="16" fill="#0d1117"/>
+  <!-- terminal window -->
+  <rect x="120" y="30" width="160" height="110" rx="8" fill="#161b22" stroke="#2bb3b5" stroke-width="3"/>
+  <rect x="120" y="30" width="160" height="22" rx="8" fill="#2bb3b5"/>
+  <rect x="120" y="44" width="160" height="8" fill="#2bb3b5"/>
+  <circle cx="134" cy="41" r="4" fill="#0d1117"/>
+  <circle cx="148" cy="41" r="4" fill="#0d1117"/>
+  <circle cx="162" cy="41" r="4" fill="#0d1117"/>
+  <text x="132" y="74" font-family="monospace" font-size="14" fill="#2bb3b5">$ ls -l</text>
+  <text x="132" y="96" font-family="monospace" font-size="14" fill="#8b949e">$ echo hi</text>
+  <rect x="132" y="104" width="9" height="14" fill="#ffffff"/>
+  <text x="200" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">MINISHELL</text>
+</svg>
