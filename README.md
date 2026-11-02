@@ -1,28 +1,28 @@
 <h1 align="center">Hi, I'm Karla</h1>
-<h3 align="center">A mathematician with interest in Criptography and Data Science</h3>
+<h3 align="center">A mathematician with interest in Cryptography and Data Science</h3>
 
 <h3 align="left">Projects:</h3>
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/USERNAME/minishell">
+      <a href="https://github.com/KarlaLlamil/minishell">
         <img src="images/minishell.svg" width="200" alt="minishell"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME/pipex">
+      <a href="https://github.com/KarlaLlamil/pipex">
         <img src="images/pipex.svg" width="200" alt="pipex"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/USERNAME/push_swap">
+      <a href="https://github.com/KarlaLlamil/push_swap">
         <img src="images/push_swap.svg" width="200" alt="push swap"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME/data-analysis">
+      <a href="https://github.com/KarlaLlamil/prediccion_ventas">
         <img src="images/data_analysis.svg" width="200" alt="data analysis"/>
       </a>
     </td>
